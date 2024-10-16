@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
 
-//        Vi testar oss fram, tog bort all sk. sample kod
+
     }
 }
