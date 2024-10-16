@@ -16,4 +16,13 @@ public class Person {
 
         return lastName;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", profession=" + profession +
+                '}';
+    }
 }
