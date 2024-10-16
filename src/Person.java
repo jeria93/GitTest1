@@ -8,4 +8,9 @@ public class Person {
         name = "nicholas";
         age = 18;
     }
+
+    public String lastName(String lastName) {
+
+        return lastName;
+    }
 }

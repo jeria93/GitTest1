@@ -3,6 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
+        Person p1 = new Person();
+        String myLastName = p1.lastName("Jeria");
+        System.out.println(myLastName);
 
     }
 }
