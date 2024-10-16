@@ -1,0 +1,80 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Mina ignorerade filer ###
+Poly/.DS_Store
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+### Mina ignorerade projekt ###
+1/
+2/
+Interface/
+Interface1/
+InterfaceGeo/
+InterfacePlayer/
+InterfaceVehicle/
+Interface exempel/
+Java constructors/
+Java encapsulation/
+Java encapsulation2/
+Klasser/
+Klasser2/
+Kotlin1/
+Methods/
+Modulus/
+MoreClassesExercises/
+Null/
+Ovning2Arv/
+PPPPOLLY/
+PassingObjects/
+PassingObjects1/
+Points/
+Poly/
+PolyCar/
+PolyTest/
+Polym/
+Polymorfism/
+Rectangle/
+ReturnStatements/
+Scanner/
+StringMethods/
+Switch/
+TryCatch/
+While/
+arvExempel/
+continue/
+demo1/
+git-test/
+GitBranches/
+produktkatalog2/
+untitled/
